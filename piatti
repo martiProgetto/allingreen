@@ -1,0 +1,83 @@
+piatti = 
+[
+	{
+    "id":0,
+    "nome":"Pizza",
+    "categoria":"Piatto unico",
+    "foto": "https://d1e3z2jco40k3v.cloudfront.net/-/media/drog19/recipe-images/pizza-margherita-con-basilico_2000.jpg?rev=c0ef67e2f4684f9dbbcf1a54188cc5b0&vd=20200707T052020Z&extension=webp&hash=A8628D12F2C4815774B2D70DA6A46E4D",
+    "prezzo": 4.50,
+    "ingredienti": ["acqua", "lievito", "sugo di pomodoro", "mozzarella", "basilico", "olio", "farina"]
+	},
+
+	{
+    "id":1,
+    "nome":"Pasta al pesto",
+    "categoria":"Primo",
+    "foto": "https://i1.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2018/05/3570_Pasta.jpg?resize=895%2C616&ssl=1",
+    "prezzo": 6.00,
+    "ingredienti": ["pasta", "basilico", "pinoli", "grana padano", "olio"]
+  },
+
+	{
+    "id":2,
+    "nome":"Insalata mista",
+    "categoria":"Secondo",
+    "foto": "https://primochef.it/wp-content/uploads/2017/05/PI_Insalata-mista-con-fave-e-ravanelli-768x512.jpg.webp",
+    "prezzo": 5.00,
+    "ingredienti": ["lattuga", "olio", "sale", "aceto balsamico", "rapanelli", "carote", "rucola"]
+	}, 
+
+	{
+    "id":3,
+    "nome":"Muffin ai mirtilli",
+    "categoria":"Dolce",
+    "foto": "https://i0.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2017/12/3405_Muffin.jpg?resize=595%2C410&ssl=1",
+    "prezzo": 3.50,
+    "ingredienti": ["farina", "lievito", "mirtilli", "zucchero", "burro", "uova"]
+	}, 
+
+	{
+    "id":4,
+    "nome":"Lasagna",
+    "categoria":"Piatto unico",
+    "foto": "https://www.buttalapasta.it/wp-content/uploads/sites/3/2020/03/xlasagne-al-forno-1.jpg.pagespeed.ic.9O3vKRQjAu.webp",
+    "prezzo": 5.50,
+    "ingredienti": ["pasta", "sugo di pomodoro", "manzo", "salsiccia", "besciamella", "grana padano", "olio"]
+	}, 
+
+	{
+    "id":5,
+    "nome":"Vellutata di zucca",
+    "categoria":"Primo",
+    "foto": "https://cdn27.beszamel.smcloud.net/t/thumbs/660/441/1/user_photos/17384/zupa-z-dyni-magdy-gessler.jpg",
+    "prezzo": 6.50,
+    "ingredienti": ["zucca", "patate", "pepe", "prezzemolo", "olio"]
+	}, 
+
+	{
+    "id":6,
+    "nome":"Pesce spada",
+    "categoria":"Secondo",
+    "foto": "https://www.ristorantedalele.it/wp-content/uploads/2020/07/pesce-spada-2.jpg",
+    "prezzo": 7.20,
+    "ingredienti": ["pesce spada", "pepe rosa", "olio", "spezie", "limone"]
+	}, 
+
+	{
+    "id":7,
+    "nome":"Patate al forno",
+    "categoria":"Contorno",
+    "foto": "https://www.buttalapasta.it/wp-content/uploads/sites/3/2016/09/xpatate-al-forno.jpg.pagespeed.ic.7mRMA2Kdnz.webp",
+    "prezzo": 2.00,
+    "ingredienti": ["patate", "spezie", "sale", "olio", "aglio"]
+	},
+
+	{
+    "id":8,
+    "nome":"Spaghetti di soia",
+    "categoria":"Primo",
+    "foto": "https://static.cookist.it/wp-content/uploads/sites/21/2018/06/spaghetti-di-riso-con-verdure-638x425.jpg",
+    "prezzo": 5.60,
+    "ingredienti": ["spaghetti di soia", "germogli di soia", "salsa di soia", "pollo", "olio", "sale", "carote", "peperoni", "cipolla", "peperoncino", "acqua"]
+	}
+]
