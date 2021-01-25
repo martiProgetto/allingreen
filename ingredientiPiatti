@@ -1,0 +1,35 @@
+ingredientiPiatti = 
+[
+    {
+        "categoria": "Ingredienti base",
+        "elementi": ["acqua", "farina", "lievito", "fecola di patate"]
+    },
+    {
+        "categoria":"Spezie",
+        "elementi": ["prezzemolo", "sale", "pepe", "origano", "timo", "basilico"]
+    },
+    {
+        "categoria":"Condimento",
+        "elementi": ["olio", "aceto", "limone"]
+    },
+    {
+        "categoria":"Verdura",
+        "elementi": ["carote", "pomodori", "cetriolo", "zucchina", "barbabietola", "cavolo", "cavolfiore", "insalata"]
+    },
+    {
+        "categoria":"Pasta",
+        "elementi": ["bucatini", "penne lisce", "penne rigate", "spaghetti", "tortiglioni"]
+    },    
+    {
+        "categoria":"Carne",
+        "elementi": ["manzo", "mucca", "maiale", "pecora", "cavallo", "pollo"]
+    },
+    {
+        "categoria":"Pesce",
+        "elementi": ["spada", "gamberi", "salmone", "trota", "sogliola", "seppie", "polipo", "calamari"]
+    },
+    {
+        "categoria":"Frutta",
+        "elementi": ["mela", "arancia", "pesca", "mango", "pera", "fragole", "prugne", "albicocce"]
+    }
+]
